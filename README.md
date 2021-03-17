@@ -1,4 +1,4 @@
-# IHC-Proyect
+# IHC-Project
 **Team Members:**
 |![Alvin](https://raw.githubusercontent.com/AlvinPech/IHC-Proyect/master/photo/alvin.jpeg)|![Lizandro](https://raw.githubusercontent.com/AlvinPech/IHC-Proyect/master/photo/lizandro.jpeg)|![Rodrigo](https://raw.githubusercontent.com/AlvinPech/IHC-Proyect/master/photo/rodrigo.jpeg)|
 |--|--|--|
